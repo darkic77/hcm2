@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectionList id="13e6d43c-9233-4516-886d-a73e841ca162">
+  <annotation></annotation>
+  <name>Organizaciones</name>
+  <storage>
+    <string>Grandes_Empresas</string>
+    <string>Micro</string>
+    <string>PyME</string>
+  </storage>
+</selectionList>
